@@ -19,6 +19,10 @@ Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/po
 
 ## SIGPLAN Most Influential POPL Papers
 
+* **2005: Combinators for bidirectional tree transformations: A linguistic approach to the view-update problem**
+  ([paper](http://www.cis.upenn.edu/~bcpierce/papers/newlenses-popl.pdf))
+  by J. Nathan Foster, Michael B. Greenwald, Jonathan T. Moore, Benjamin C. Pierce, and Alan Schmitt.
+
 * **2004: Abstractions from proofs**
   ([paper](http://goto.ucsd.edu/~rjhala/papers/abstractions_from_proofs.pdf))
   by Thomas Henzinger, Ranjit Jhala, Rupak Majumdar, and Kenneth McMillan.
